@@ -11,4 +11,4 @@
   Cheers and have a wonderful day ahead! 😊
 </p>
 
-Here's the link to my portfolio deployed on Github: https://timothyytl.github.io/timothy-portfolio/
+Here's the link to my portfolio: https://timothy-lim-portfolio.vercel.app/
